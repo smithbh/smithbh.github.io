@@ -1,0 +1,70 @@
+==================================================================
+https://keybase.io/smithbh
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://smithbh.github.io
+  * I am smithbh (https://keybase.io/smithbh) on keybase.
+  * I have a public key with fingerprint EA3C A141 1BDF 61F8 7B7A  3534 9B7A 4DDA A329 106B
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01013d9687c2b5f09ef6185abd6662054687c60b65852ec776b5ee1d4db1a3c4f1d00a",
+            "fingerprint": "ea3ca1411bdf61f87b7a35349b7a4ddaa329106b",
+            "host": "keybase.io",
+            "key_id": "9b7a4ddaa329106b",
+            "kid": "01013d9687c2b5f09ef6185abd6662054687c60b65852ec776b5ee1d4db1a3c4f1d00a",
+            "uid": "94ff5a6ecf006ab5f8dc5bb0c40d0619",
+            "username": "smithbh"
+        },
+        "service": {
+            "hostname": "smithbh.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1483572732,
+    "expire_in": 157680000,
+    "prev": "d06e1f095669b1d19a900781ebd90573d86691173754fdc95f7f2e29f7e1e5db",
+    "seqno": 44,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.61
+Comment: https://keybase.io/crypto
+
+yMIqAnicrVJbSBRRGN7NVLLWJEQTS2OozFrknLmcmVnpJkRRIYGGdmOdM+fM7mTu
+bjujWaalS0FQkQUZula+iD2EJeJG9ZBdXpSiIlKyG/TSw5bdkIiiznR5CHrsvPyc
+//v+7//+n/+2J8WV4e6Mry3Td+cXu0eH4/Wu6rpDX5s4HCZ7OV8TV0t/BrqLUMv2
+15qE83EAAigQFSmyzmPJACo1EFQkDROEEA8k0UEQwEhSJJ7qsoywRCkkIsFQE3TR
+gAQAjfNyhhkK0GgkaoZsJksZpkERQkyYnqHIWNYESRBVFkVCNE3gVQgQZoXBsOVU
+MHNYs2iJGWY59vH/tPcP/n/2Xf+rj2gYkoaobgCANCaoEF3CGOgiIABB1SFaNBrS
+6ihjW3WmHcRBrtnLsWSDqVNnr84gfxNKAizU418zRaJhO6yHdzE4aNsRy+eU23sj
+Dn8Pxf7fSn5shgjbJatooFHLDIc4H2RM3TYdaSgqgiTzssB7OdoYMaPUbzoMSUYK
+YM/pQxuYJLNNIduLhJCKIYGqpgIgK5BiogJJFojCAAhlQZZEg+iqZMgGT3nVkCmk
+EnE2bdHdoTDnE0XmUws4Y5mBkGbXRynXfPPG9ukud4YrLXWac2SujBlZf06v5kL6
+94rLYsx7uMNTuWJq8mxheU1+f9qJu9Vj8wm6XPzCP6rdKvZcia87/rjny+cF3a3H
+r795V9aSuzZv82KzseXSo3unjYKLmceOPc4Fy19P7XywY27KzPfZT7ryxtKWTHSl
+JFZtmO2Zk4h9XIyi8wbOuQrHTrpbS9f3VfVUHDwS27/oVNem+33Jp5kLV7eOvOhP
+ZvZf9XHjQ3NWzOY7xg+8ulb0frI8nlt0/W17Z2y0MXvb5tQzs6ryKxMjSwfNb/ty
+0p8/XPl87paHH6dvrWpL1bmXWSvbByYSk0efJAbL7jwryUoObxu3vi5Ib2l7uXHo
+w9bavInS7oJPV68sKz+fbF8zfDanrbf3B5ZSPsI=
+=kgr5
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/smithbh
+
+==================================================================
+
+
